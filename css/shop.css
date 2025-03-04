@@ -1,0 +1,152 @@
+/*********************shop****************/
+
+.shop_1r1 {
+    gap: 50px;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.shop_1r2 {
+    gap: 0px;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.shop_dt1r ul li{
+width:30px;
+height:30px; 
+}
+ 
+.shop_dt2 .nav-tabs{
+border-color:#f7edca;
+ }
+.shop_dt2 .nav-tabs .nav-link {
+padding:15px 30px;
+color:#333;
+border-color: #f7edca #f7edca #fff;
+font-weight:bold;
+}
+.shop_dt2 .nav-tabs .nav-link:hover {
+color:#b6702a;
+}
+.shop_dt2 .nav-tabs .nav-link.active {
+border-color: #b6702a #b6702a #fff;
+color:#fff;
+background:#b6702a;
+}
+.w-200{
+    width: 100% !important;
+}
+
+/*********************shop_end****************/
+
+@media (min-width : 767px){
+.shop_1r1l {
+text-align:center;
+margin-bottom:10px; 
+ }
+.shop_dt1r{
+margin-top:15px;  
+ }
+.shop_dt1r .button_1{
+padding-left:20px;
+padding-left:20px;
+ }
+.shop_dt2 .nav-tabs .nav-link {
+padding: 15px 15px;
+font-size:15px;
+}
+.profile1ii {
+width:100%!important; 
+ }
+
+.shop_1r2 {
+/* gap: 10px; */
+display: flex;
+flex-direction: row;
+}
+
+
+
+ }
+
+
+@media (min-width:576px){
+.shop_1r1l {
+text-align:center;
+margin-bottom:10px; 
+}
+
+.shop_dt1r{
+margin-top:15px;  
+}
+
+.shop_dt1r .button_1{
+padding-left:20px;
+padding-left:20px;
+}
+
+.shop_dt2 .nav-tabs .nav-link {
+padding: 15px 15px;
+font-size:15px;
+}
+
+.profile1ii {
+width:100%!important; 
+}
+
+.shop_1r2 {
+    /* gap: 10px; */
+    display: flex;
+    flex-direction: row;
+}
+
+ }
+
+ @media (min-width:276px){
+    .shop_1r1l {
+    text-align:center;
+    margin-bottom:10px; 
+    }
+    
+    .shop_dt1r{
+    margin-top:15px;  
+    }
+    
+    .shop_dt1r .button_1{
+    padding-left:20px;
+    padding-left:20px;
+    }
+    
+    .shop_dt2 .nav-tabs .nav-link {
+    padding: 15px 15px;
+    font-size:15px;
+    }
+    
+    .profile1ii {
+    width:100%!important; 
+    }
+    
+    .shop_1r2 {
+        /* gap: 10px; */
+        display: flex;
+        flex-direction: row;
+    }
+    .col-sm-6 {
+        flex: 0 0 auto;
+        width: 30%;
+    }
+    
+} 
+ 
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1310px) {
+
+ }
+
+
+
